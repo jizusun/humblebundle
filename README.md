@@ -1,8 +1,5 @@
 ## Humble Bundle Archives
 
+- [HUMBLE BOOK BUNDLE: LINUX BY APRESS](https://blog.edtechstar.com/humblebundle/web/linux-apress-books.html)
 
-```sh
-#!/usr/bin/env bash
-httrack https://www.humblebundle.com/books/linux-apress-books -W -O "/Users/i337932/websites/humble" -N1  -%v
-```
 
