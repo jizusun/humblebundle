@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.humblebundle.com	TRUE	/	FALSE	1999999999	csrf_cookie	vTTDxrPHecqFKdBd-1-1610864024
+.humblebundle.com	TRUE	/	FALSE	1999999999	_simpleauth_sess	eyJpZCI6IkpJaERXTUduRlYifQ\075\075|1610864194|f29f79bae367973e9dd271ec08fb374b462e8568"
+

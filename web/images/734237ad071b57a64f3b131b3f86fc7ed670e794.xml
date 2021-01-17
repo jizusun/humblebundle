@@ -1,0 +1,6 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Humble Bundle</ShortName>
+  <Description>Search for games on the Humble Bundle Store</Description>
+  <Url type="text/html" method="get" template="http://www.humblebundle.com/store/search?search={searchTerms}&amp;hmb_source=opensearch&amp;hmb_medium=opensearch&amp;hmb_campaign=opensearch"/>
+  <Query role="example" searchTerms="Civilization" />
+</OpenSearchDescription>
